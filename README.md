@@ -50,6 +50,7 @@ hbarta@olive:~/Programming/go/src/hello$
 ## Status
 
 Build working.
+Testing working.
 
 ## Errata
 
