@@ -20,3 +20,37 @@ Build commands
 go build cmd/hello.go
 go build ./cmd/hello.go
 ```
+
+## Testing
+
+```text
+go test test/hello_test.go
+```
+
+## Layout
+
+```text
+hbarta@olive:~/Programming/go/src/hello$ tree
+.
+├── cmd
+│   └── hello.go
+├── go.mod
+├── hello
+├── pkg
+│   └── lib
+│       └── lib.go
+├── README.md
+└── test
+    └── hello_test.go
+
+4 directories, 6 files
+hbarta@olive:~/Programming/go/src/hello$ 
+```
+
+## Status
+
+Build working.
+
+## Errata
+
+Project format as specified at <https://jchiang1225.medium.com/golang-project-structure-beginner-guide-2022-b18285ddc1be> and <https://github.com/golang-standards/project-layout>
