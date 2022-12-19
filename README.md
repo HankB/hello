@@ -49,7 +49,7 @@ hbarta@olive:~/Programming/go/src/hello$
 
 ## Status
 
-Build working.
+Build working.  
 Testing working.
 
 ## Errata
