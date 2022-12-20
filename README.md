@@ -36,12 +36,11 @@ hbarta@olive:~/Programming/go/src/hello$ tree
 │   ├── hello.go
 │   └── hello_test.go
 ├── go.mod
-├── hello
 ├── internal
-│   └── lib
-│       └── lib.go
+│   └── lib.go
 └── README.md
 
+2 directories, 5 files
 hbarta@olive:~/Programming/go/src/hello$ 
 ```
 
