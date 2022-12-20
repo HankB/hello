@@ -24,7 +24,7 @@ go build ./cmd/hello.go
 ## Testing
 
 ```text
-go test test/hello_test.go
+go test cmd/hello_test.go
 ```
 
 ## misc
