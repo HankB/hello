@@ -56,6 +56,7 @@ hbarta@olive:~/Programming/go/src/hello$
 Build working.  
 Testing working.
 First cut, reorganize directories.
+Next fix, library rename, move.
 
 ## Resources
 
