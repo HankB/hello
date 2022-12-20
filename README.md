@@ -42,11 +42,12 @@ hbarta@olive:~/Programming/go/src/hello$ tree
 │   ├── hello.go
 │   └── hello_test.go
 ├── go.mod
+├── hello
 ├── internal
-│   └── lib.go
+│   └── adder.go
 └── README.md
 
-2 directories, 5 files
+2 directories, 6 files
 hbarta@olive:~/Programming/go/src/hello$ 
 ```
 
