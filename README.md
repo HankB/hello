@@ -33,17 +33,15 @@ go test test/hello_test.go
 hbarta@olive:~/Programming/go/src/hello$ tree
 .
 ├── cmd
-│   └── hello.go
+│   ├── hello.go
+│   └── hello_test.go
 ├── go.mod
 ├── hello
-├── pkg
+├── internal
 │   └── lib
 │       └── lib.go
-├── README.md
-└── test
-    └── hello_test.go
+└── README.md
 
-4 directories, 6 files
 hbarta@olive:~/Programming/go/src/hello$ 
 ```
 
@@ -54,4 +52,8 @@ Testing working.
 
 ## Errata
 
-Project format as specified at <https://jchiang1225.medium.com/golang-project-structure-beginner-guide-2022-b18285ddc1be> and <https://github.com/golang-standards/project-layout>
+REsources:
+
+* <https://developer20.com/how-to-structure-go-code/>
+*  <https://jchiang1225.medium.com/golang-project-structure-beginner-guide-2022-b18285ddc1be>
+* <https://github.com/golang-standards/project-layout>

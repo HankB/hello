@@ -2,7 +2,7 @@ package main
 
 import (
 	"testing"
-	"hello/pkg/lib"
+	"hello/internal/lib"
 )
 
 func TestAdd(t *testing.T) {

@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"hello/pkg/lib"
+	"hello/internal/lib"
 )
 
 func main() {
