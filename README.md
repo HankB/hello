@@ -27,6 +27,12 @@ go build ./cmd/hello.go
 go test test/hello_test.go
 ```
 
+## misc
+
+```text
+go fmt ./cmd
+```
+
 ## Layout
 
 ```text
