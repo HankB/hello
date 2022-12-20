@@ -49,10 +49,9 @@ hbarta@olive:~/Programming/go/src/hello$
 
 Build working.  
 Testing working.
+First cut, reorganize directories.
 
-## Errata
-
-REsources:
+## Resources
 
 * <https://developer20.com/how-to-structure-go-code/>
 *  <https://jchiang1225.medium.com/golang-project-structure-beginner-guide-2022-b18285ddc1be>
